@@ -1,0 +1,6 @@
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\Libraries\DTO\bin\Release\DTO.dll
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\Libraries\DTO\bin\Release\DTO.pdb
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\Libraries\DTO\obj\Release\DTO.csprojResolveAssemblyReference.cache
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\Libraries\DTO\obj\Release\DTO.csproj.CoreCompileInputs.cache
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\Libraries\DTO\obj\Release\DTO.dll
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\Libraries\DTO\obj\Release\DTO.pdb
