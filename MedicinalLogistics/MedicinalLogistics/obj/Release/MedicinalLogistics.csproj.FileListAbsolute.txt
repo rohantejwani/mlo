@@ -1,0 +1,15 @@
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\MedicinalLogistics\MedicinalLogistics\bin\MedicinalLogistics.dll.config
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\MedicinalLogistics\MedicinalLogistics\bin\MedicinalLogistics.dll
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\MedicinalLogistics\MedicinalLogistics\bin\MedicinalLogistics.pdb
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\MedicinalLogistics\MedicinalLogistics\bin\DTO.dll
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\MedicinalLogistics\MedicinalLogistics\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\MedicinalLogistics\MedicinalLogistics\bin\Utility.dll
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\MedicinalLogistics\MedicinalLogistics\bin\Newtonsoft.Json.dll
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\MedicinalLogistics\MedicinalLogistics\bin\DTO.pdb
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\MedicinalLogistics\MedicinalLogistics\bin\Utility.pdb
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\MedicinalLogistics\MedicinalLogistics\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\MedicinalLogistics\MedicinalLogistics\bin\Newtonsoft.Json.xml
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\MedicinalLogistics\MedicinalLogistics\obj\Release\MedicinalLogistics.csprojResolveAssemblyReference.cache
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\MedicinalLogistics\MedicinalLogistics\obj\Release\MedicinalLogistics.csproj.CoreCompileInputs.cache
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\MedicinalLogistics\MedicinalLogistics\obj\Release\MedicinalLogistics.dll
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\MedicinalLogistics\MedicinalLogistics\obj\Release\MedicinalLogistics.pdb
